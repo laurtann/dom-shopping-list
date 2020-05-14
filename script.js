@@ -23,7 +23,6 @@ function createListElement() {
 	li.appendChild(btn);
 
 	input.value = "";
-	
 } 
 
 // toggle 'done' class
